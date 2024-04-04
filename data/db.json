@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "cookies"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "item": "hot chocklate"
+    },
+    {
+      "id": "61",
+      "checked": false,
+      "item": "carot"
+    },
+    {
+      "id": "611",
+      "checked": false,
+      "item": "suchi"
+    }
+  ]
+}
